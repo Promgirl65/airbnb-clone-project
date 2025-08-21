@@ -39,6 +39,20 @@ Primary Pages
 Importance of User-Friendly Design
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
+Color Styles:
+Primary: #FF5A5F
+Secondary: #008489
+Background: #FFFFFF
+Text: #222222
+Secondary Text: #717171
+
+Typography:
+Primary Font: Circular, Medium (500), 16px
+Headings: Circular, Bold (700), 24px-32px
+Secondary Text: Circular, Book (400), 14px
+
+Identifying design properties in mock-ups brings clarity, consistency, and precision to the design process. It helps everyone, from designers to developers to stakeholders, stay aligned and deliver a product that is both beautiful and functional.
+
 Project Roles and Responsibilities
 | Role                  | Responsibilities                                                    |
 |-----------------------|---------------------------------------------------------------------|
